@@ -110,7 +110,7 @@
 * [Shimmer](https://github.com/collidingScopes/shimmer) - Oscillating Wave Images
 * [CollidingScopes](https://github.com/collidingScopes/collidingScopes.github.io) - Kaleidoscope Images
 * [Party-ify](https://nathanielw.github.io/party-ify/) - Party-ify Images
-
+* [Style Ai](https://styleai.art/) - image style conversion tool
 ***
 
 ## ▷ [Linux Image Editing](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_linux_images)
